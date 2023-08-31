@@ -41,3 +41,7 @@ Crear una aplicación web para un cliente de banco con HTML, CSS y JS. Por ejemp
 2. Compartir el repo de codigo antes de la clase (se les compartira un un hilo antes de iniciar la clase).
 3. Las preguntas y retro de los senseis son con base en su experiencia y con el objetivo de ayudarlos.
 4. Limite de la retro 1min. por sensei.
+
+**ESTATUS DEL PROYECTO**
+Funcionalidad: Terminada
+Diseño: En progreso
