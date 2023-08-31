@@ -43,5 +43,5 @@ Crear una aplicación web para un cliente de banco con HTML, CSS y JS. Por ejemp
 4. Limite de la retro 1min. por sensei.
 
 **ESTATUS DEL PROYECTO**
-Funcionalidad: Terminada
-Diseño: En progreso
+* Funcionalidad: Terminada
+* Diseño: En progreso
